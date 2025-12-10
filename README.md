@@ -3,3 +3,4 @@ Codigos de aula para a Jornada Python de Dez de 2025 - Turma 2
 
 Aulas:
 - Aula 1 - Estrutura, instalacoes e Print
+- Aula 2 - Print, tipos de dados, format, f-string, variaveis e input
