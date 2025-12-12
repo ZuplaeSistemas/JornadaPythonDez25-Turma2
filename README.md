@@ -5,3 +5,4 @@ Aulas:
 - Aula 1 - Estrutura, instalacoes e Print
 - Aula 2 - Print, tipos de dados, format, f-string, variaveis e input
 - Aula 3 - Git/Github, Variaveis, tipos, conversoes e operadores.
+- Aula 4 - Funcoes e modulos.
