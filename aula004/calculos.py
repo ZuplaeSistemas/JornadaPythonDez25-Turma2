@@ -1,4 +1,4 @@
-def soma(n1, n2):
+def soma(n1, n2): #parametros - n1 e n2
     resultado = n1 + n2
     print(f"Soma: {resultado}")
 
