@@ -3,7 +3,7 @@ from time import sleep
 opcao = -1
 
 while opcao != 0:
-    print('='*20, 'Modulo Funcionario' ,'='*20, '\n')
+    print('='*20, 'Módulo Funcionário' ,'='*20, '\n')
 
     print('\t1-Cadastrar')
     print('\t2-Editar')
@@ -11,7 +11,7 @@ while opcao != 0:
     print('\t4-Deletar')
     print('\t0-Sair')
 
-    opcao = int(input('\n\tEscolha uma das opcoes:'))
+    opcao = int(input('\n\tEscolha uma das opções:'))
 
     match opcao:
         case 0:
@@ -27,4 +27,4 @@ while opcao != 0:
         case _:
             print('Opcao invalida')
     
-    sleep(2)
+    sleep(3)
