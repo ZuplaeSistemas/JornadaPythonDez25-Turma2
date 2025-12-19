@@ -7,3 +7,4 @@ Aulas:
 - Aula 3 - Git/Github, Variaveis, tipos, conversoes e operadores.
 - Aula 4 - Funcoes e modulos.
 - Aula 5 - If, Else, For, List
+- Aula 6 - Estruturas de dados (list, tuple, dict), estruturas de decisão erepetição, funções e modularização.
