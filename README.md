@@ -8,3 +8,5 @@ Aulas:
 - Aula 4 - Funcoes e modulos.
 - Aula 5 - If, Else, For, List
 - Aula 6 - Estruturas de dados (list, tuple, dict), estruturas de decisão erepetição, funções e modularização.
+- Aula 7 - Branchs, Merge e Pull Request
+- Aula 8 - Trabalhando com Arquivos TXT, CSV e JSON.
