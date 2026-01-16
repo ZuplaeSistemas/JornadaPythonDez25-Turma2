@@ -10,3 +10,4 @@ Aulas:
 - Aula 6 - Estruturas de dados (list, tuple, dict), estruturas de decisão erepetição, funções e modularização.
 - Aula 7 - Branchs, Merge e Pull Request
 - Aula 8 - Trabalhando com Arquivos TXT, CSV e JSON.
+- Aula 9 - Trabalhar com projeto WEB
